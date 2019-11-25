@@ -3,7 +3,7 @@ member:
   min: 15
   max: 40
  price:
-  discount: 5.5
+  discount: 6.5
 vehicle:
  default:
   model: car
