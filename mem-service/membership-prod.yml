@@ -3,8 +3,8 @@ member:
   min: 15
   max: 40
  price:
-  discount: 7.5
+  discount: 9.5
 vehicle:
  default:
-  model: car
+  model: hyundai
 duration: all
