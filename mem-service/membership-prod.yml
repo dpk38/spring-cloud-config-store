@@ -8,3 +8,6 @@ vehicle:
  default:
   model: hyundai
 duration: all
+test:
+ name: praveen
+ roll: 21
